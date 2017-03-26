@@ -1,6 +1,6 @@
-package test.CommonClass;
+package CommonClass;
 
-import main.CommonClass.Node;
+import CommonClass.Node;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

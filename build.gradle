@@ -6,5 +6,16 @@ repositories {
 
 dependencies {
     testCompile 'junit:junit:4.12'
- t stat   compile 'org.testng:testng:6.9.6'
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir 'java'
+        }
+    }
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.13' //version required
 }

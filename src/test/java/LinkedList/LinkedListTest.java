@@ -1,7 +1,6 @@
-package test.LinkedList;
+package LinkedList;
 
-import main.CommonClass.Node;
-import main.LinkedList.LinkedList;
+import CommonClass.Node;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

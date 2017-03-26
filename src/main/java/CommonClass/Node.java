@@ -1,4 +1,4 @@
-package main.CommonClass;
+package CommonClass;
 
 /**
  * DataStructuresPractices

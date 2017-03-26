@@ -1,6 +1,6 @@
-package main.LinkedList;
+package LinkedList;
 
-import main.CommonClass.Node;
+import CommonClass.Node;
 
 /**
  * DataStructuresPractices
